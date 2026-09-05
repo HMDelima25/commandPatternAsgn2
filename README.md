@@ -18,6 +18,7 @@ In your solution you must provide the following in your Github link account:
   UML Class Diagram
   Uploaded java codes for the solution.
 
+# UML Class Diagram
 <img width="811" height="515" alt="image" src="https://github.com/user-attachments/assets/9db7cc94-eada-4dfc-96df-16c2e4ec0dbe" />
 
 
